@@ -75,28 +75,28 @@ I hold the **Huawei HCIA-AI certification** and believe that the best solutions 
 
 ## 💡 Featured Projects
 
-### 🏦 [BudgetWise — Personal Finance Platform](https://github.com/Mario-Nasser)
+### 🏦 [Budget-Wise](https://github.com/Mario-Nasser/Budget-Wise)
 > *TypeScript · React · Node.js · Express · MongoDB · JWT*
 
 A full-stack personal finance management application. Built with a React/TypeScript front-end and a secure Node.js/Express REST API back-end, implementing JWT authentication with a middleware security layer. Features include income/expense tracking, category-based budget management, over-limit alert notifications, and visualized financial goals — all backed by MongoDB with Mongoose and designed using SOLID principles and the MVC pattern.
 
 ---
 
-### 🧠 [Brain Tumor Detection Model](https://github.com/Mario-Nasser)
+### 🧠 [Brain Tumor Detection Model]
 > *PyTorch · CNN · Python · Computer Vision*
 
 A convolutional neural network trained to classify brain tumor types from MRI scans. Implemented a full data preprocessing and augmentation pipeline (rotation, flipping, normalization) to reduce overfitting and maximize generalization on unseen medical imaging data.
 
 ---
 
-### 🏭 [Smart Warehouse & Inventory System](https://github.com/Mario-Nasser)
+### 🏭 [The-Smart-Warehouse](https://github.com/Mario-Nasser/The-Smart-Warehouse)
 > *Node.js · JavaScript · SQL Server (SSMS) · Power BI · ERD*
 
 A B2B warehousing platform built on a custom-designed relational database — from conceptual ERD to physical schema to full DDL/DML SQL execution in SSMS. Manages client storage agreements across geographic facilities, tracks internal product movements between warehouse sections, and features a reporting engine for employee performance analytics and inventory optimization.
 
 ---
 
-### 📊 [F1 Race Strategy Data Analysis](https://github.com/Mario-Nasser)
+### 📊 [F1 Race Strategy Data Analysis]
 > *SQL · Excel Pivot Tables · Data Visualization · Kaggle*
 
 A self-initiated data analysis project exploring Formula 1 race strategy using a Kaggle historical dataset. Built relational connections between races, drivers, qualifying results, pit stop timings, and race outcomes. Key findings: two pit stops is the statistically optimal strategy (adjusted for rain conditions), and top-3 qualifying positions significantly correlate with race victory probability.
@@ -110,7 +110,6 @@ A self-initiated data analysis project exploring Formula 1 race strategy using a
 | ☁️ MLOps & Cloud | Model deployment pipelines, Azure ML services |
 | ⚡ Advanced Full-Stack | Next.js, scalable web architecture patterns |
 | 🔒 Systems Programming | Rust, low-level memory management |
-| 📱 Mobile | Swift for iOS development |
 
 ---
 
